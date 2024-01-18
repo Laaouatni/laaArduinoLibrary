@@ -1,4 +1,4 @@
-#include "../COSTANTS/COSTANTS.cpp";
+#include "../CONSTANTS/CONSTANTS.cpp";
 
 class ArduinoComponente {
   private:
