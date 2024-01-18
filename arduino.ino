@@ -1,6 +1,6 @@
-#include "lib/laaLibrary/laaLibrary.cpp"
+#include "lib/laaArduinoLibrary/laaArduinoLibrary.cpp"
 
-output::analog::Led Agiallo, Averde, Agiallo2;
+output::analog ::Led Agiallo, Averde, Agiallo2;
 output::digital::Led Dverde, Drosso, Drosso2;
 
 void loop() {};
